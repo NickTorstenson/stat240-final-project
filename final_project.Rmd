@@ -1,0 +1,9 @@
+---
+title: "Final Project STAT240"
+author: "Nicholas Torstenson, "
+---
+
+
+```{r}
+datatset = read_csv("../../data/owid-co2-data.csv")
+```
